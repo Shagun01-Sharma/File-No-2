@@ -1,0 +1,8 @@
+user_input=input("Enter a number")
+answer=int(user_input)
+print(f"datatype is :",type(answer))
+user_input=input("Enter a number")
+answer2=float(user_input)
+print(f"datatype is :",type(answer2))
+user_input=("Enter a character")
+print(f"datatype is:",type("user_name"))
